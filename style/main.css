@@ -331,7 +331,7 @@ h4:after {
 }
 
 .reach-list li:hover {
-    transform: scale(1.1, 1.2);
+    transform: scaleY(1.1);
 }
 .reach-list li:hover .reach-detail {
     background: rgba(27,24,40, 0.8);

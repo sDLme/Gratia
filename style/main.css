@@ -9,7 +9,7 @@ html                            {position: relative; min-height: 100%;}
 body                            {padding-bottom:360px; font: italic 24px 'Crimson Text', serif; background:#fff; color:#9ca0ab; }
 
 button                         { cursor: pointer; padding: 0 }
-select, input, textarea,button { font:12px 'Open Sans', sans-serif;; vertical-align:middle; }
+select, input, textarea,button { font:12px 'Open Sans', sans-serif; vertical-align:middle; }
 textarea                       { vertical-align:top; }
 :focus                         { outline:none; }
 input[type=submit]             { cursor:pointer; }
@@ -486,6 +486,7 @@ h4:after {
 }
 .copy {
     margin-bottom: 40px;
+    text-align: center;
     font: 18px 'Crimson Text', serif;
     color: #8b909d;
 }
